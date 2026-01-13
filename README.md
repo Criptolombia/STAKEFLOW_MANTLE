@@ -102,15 +102,18 @@ This creates:
 cd frontend
 npm install
 npm run dev
+```
 
 ### Smart Contracts
+```bash
 cd contracts
 npm install
 npx hardhat test
+```
 
-Hackathon Context
-
+### Hackathon Context
+```bash
 StakeFlow was developed under hackathon time constraints as a functional MVP.
 The core architecture and design decisions already support the full staking lifecycle, including secondary market liquidity.
-
 Further iterations will focus on completing the marketplace execution flow and expanding token support.
+```
