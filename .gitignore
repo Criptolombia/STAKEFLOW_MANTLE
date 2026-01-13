@@ -1,0 +1,34 @@
+############################
+# Node / Frontend
+############################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+############################
+# Environment variables
+############################
+.env
+.env.local
+.env.development
+.env.production
+
+############################
+# Frontend build output
+############################
+dist/
+build/
+
+############################
+# Hardhat / Blockchain
+############################
+artifacts/
+cache/
+
+############################
+# OS & Editor
+############################
+.DS_Store
+Thumbs.db
+.vscode/

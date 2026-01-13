@@ -1,0 +1,31 @@
+/* RESET */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: transparent;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* BACKGROUND GLOBAL */
+#background {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+
+  background-image: url("/radial_gradient.png");
+  background-repeat: no-repeat;
+  background-position: center 90%;
+  background-size: cover;
+}
+
+select option {
+  background: #0B0F14;
+  color: #ffffff;
+}
