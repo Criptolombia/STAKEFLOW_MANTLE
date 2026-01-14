@@ -156,8 +156,10 @@ Create a `.env` file in the root directory of the project and add the following 
 ```env
 VITE_SUPABASE_URL=your_supabase_project_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-## Deployment Instructions
 ```
+
+## Deployment Instructions
+
 
 This section explains how to deploy and run the project locally, including smart contracts and frontend setup.
 
@@ -187,17 +189,6 @@ This project runs on **Mantle Sepolia Testnet**.
 Ensure your wallet is connected to Mantle Sepolia before interacting with the app.
 
 ---
-
-### Environment Variables
-
-Create a `.env` file in the root directory of the project and add the following variables:
-
-```env
-VITE_SUPABASE_URL=your_supabase_project_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-
-
-These values can be obtained from your Supabase project settings.
 
 ### Smart Contract Deployment
 
