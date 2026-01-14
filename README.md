@@ -206,6 +206,27 @@ src/web3/contracts.js
 
 src/web3/abis/
 
+## Team
+
+**Solo Founder / Independent Builder**
+
+- **Juan Henao**
+  - Role: Founder & Developer
+  - Background: Data Analyst, Crypto trader
+  - Experience: Basic Blockchain solutions, crypto trading, on-chain analytics, automated trading systems
+  - Focus Areas: Smart contracts, DeFi and Focus real uses of Blockchain technology
+
+
+## Bio
+
+Juan Henao is a Chemical Engineer and Data Analyst with a background in blockchain technology, crypto trading, and on-chain data analysis. He has experience designing and building automated trading systems, smart contract–based solutions, and data-driven tools, with a focus on practical blockchain use cases. 
+
+
+## Motivation
+
+This project was developed to provide an alternative to one of the problems that will most affect the blockchain world in the coming years: short-term thinking. I am convinced that in less time than we plan, a large part of global finance will begin to develop in the blockchain environment, and we must have tools ready to provide solutions, such as the one I am delivering at this hackathon.
+
+
 ## Compliance Declaration
 
 This project was developed exclusively for educational and hackathon purposes.
