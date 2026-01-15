@@ -40,8 +40,8 @@ function TopBar({ wallet, setWallet, setScreen }) {
         </button>
 
         <button style={styles.navButton}>
-          <img src={AboutIcon} style={styles.icon} />
-          About
+      
+          
         </button>
       </div>
 
